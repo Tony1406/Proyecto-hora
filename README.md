@@ -1,12 +1,12 @@
 # Proyecto Hora
 
-Este es un proyecto de ejemplo que utiliza HTML, CSS y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
+Este es un proyecto de ejemplo que utiliza HTML, CSS, Bootstrap y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
 
 https://proyecto-hora.vercel.app/
 
 ## Descripción
 
-Este proyecto es una demostración de cómo se pueden combinar HTML, CSS y JavaScript para crear una pagina web que muestre la hora en tiempo real.
+Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, Bootstrap y JavaScript para crear una pagina web que muestre la hora en tiempo real.
 
 ## Uso
 
